@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C++ / Compiled binaries
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.dylib
+*.dll
+
+# IDE / Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependency directories
+node_modules/
+venv/
+env/
+ENV/
+build/
+dist/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
